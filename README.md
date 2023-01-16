@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <div align = "center">
   <a href="https://youtube.com/c/https://Learnwithshuvo928?utm_source=EKLEiJECCKjOmKnC5IiRIQ">
     <img width="200" heigth="220" src="https://github.com/FB-FIRE/FB-FIRE/blob/main/20221007_173731-1.jpg">
@@ -80,7 +87,7 @@ Programmer | Content Creator | Learner
  
 
 [facebook]: https://www.facebook.com/ft.alvi.18
-[youtube]: https://www.youtube.com/@Learnwithshuvo928
+[youtube]: https://https://www.youtube.com/@Learnwithshuvo928
 [instagram]: https://instagram.com/ador143.p/
 [telegram]: https://t.me/mdadilahnaf007
  
