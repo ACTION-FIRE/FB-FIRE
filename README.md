@@ -80,7 +80,7 @@ Programmer | Content Creator | Learner
  
 
 [facebook]: https://www.facebook.com/ft.alvi.18
-[youtube]: https://https://www.youtube.com/Learnwithshuvo928
+[youtube]: https://www.youtube.com/@Learnwithshuvo928
 [instagram]: https://instagram.com/ador143.p/
 [telegram]: https://t.me/mdadilahnaf007
  
