@@ -6,7 +6,7 @@
 
 
 <div align = "center">
-  <a href="https://youtube.com/https://Learnwithshuvo928?utm_source=EKLEiJECCKjOmKnC5IiRIQ">
+  <a href="https://www.youtube.com/@Learnwithshuvo928?utm_source=EKLEiJECCKjOmKnC5IiRIQ">
     <img width="200" heigth="220" src="https://github.com/ACTION-FIRE/ACTION-FIRE/blob/main/20221007_173731-1.jpg">
     </br>
   <h1>ADOR CHOWDHURY </h1>
